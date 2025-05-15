@@ -1,4 +1,4 @@
-# 🎓 College Appointment Booking System API
+# 🎓 College Professor Appointment Booking System API
 
 This is the backend API for a **College Appointment Booking System**, where students can book appointments with professors based on their availability. It is built with **Node.js**, **Express**, and **MongoDB**, and includes secure **JWT authentication** for both students and professors.
 
