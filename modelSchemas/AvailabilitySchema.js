@@ -5,4 +5,4 @@ const availabilitySchema = new mongoose.Schema({
   slots: [{ type: String, required: true }] 
 });                                                     
 
-export default mongoose.model('Availability', availabilitySchema);
+export default mongoose.model('Availability', availabilitySchema);      
